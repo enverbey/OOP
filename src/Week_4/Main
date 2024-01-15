@@ -1,0 +1,20 @@
+package Week_4;
+
+
+public class Main {
+    public static void main(String[] args) {
+
+
+        Cat panter = new Cat("Panter");
+        panter.sound();
+
+        //method binding
+        output();
+    }
+
+    public static void output(){
+        System.out.println("Hey my name is Enver");
+        System.out.println("I hope, this project helps you to your work");
+        System.out.println("Good job, keep continue!");
+    }
+}
