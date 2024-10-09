@@ -1,5 +1,5 @@
 [TR](#Java-ile-OOP-)
-# OOP Repository for Java Students 📚
+# OOP Repository with Java for Students 📚
 
 This repository has been created to assist individuals taking Object-Oriented Programming (OOP) courses with Java. It aims to provide resources and examples to enhance understanding and practical skills in OOP concepts.
 
@@ -36,7 +36,7 @@ Feel free to let me know if you want any changes or additional details!
 ---
 <br><br><br><br>
 
-
+[EN](#-OOP-Repository-with-Java-for-Students-)
 # Java ile OOP 📚
 
 Bu repository, Java ile Nesne Yönelimli Programlama (OOP) dersi alan bireylere yardımcı olmak amacıyla oluşturulmuştur. OOP kavramlarını anlamayı ve pratik becerileri geliştirmeyi amaçlayan kaynaklar ve örnekler sunmayı hedeflemektedir.
