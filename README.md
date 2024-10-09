@@ -11,7 +11,7 @@ This folder serves as a foundational resource, focusing on essential Java skills
 
 In line with the topics covered in school, I plan to regularly add new folders and resources to this repository. This will help keep the materials relevant and up-to-date with the curriculum.
 
-## A Note from the Creator 🙋‍♂️
+## A Note from the Developer 🙋‍♂️
 
 I am also a student, so there may be errors in my work, and the design might not be perfect! Please feel free to reach out for any additions, edits, suggestions, or requests. Your feedback is valuable, whether it's regarding the code files or the README documentation. If you can improve this repository's content or structure, I would appreciate your insights. 
 
@@ -49,7 +49,7 @@ Bu klasör, nesne yönelimli programlamayı anlamak için kritik olan temel Java
 
 Okulda işlenen konular doğrultusunda, bu repository'e düzenli olarak yeni klasörler ve kaynaklar eklemeyi planlıyorum. Bu, materyallerin güncel ve müfredata uygun kalmasına yardımcı olacaktır.
 
-## Yaratıcıdan Bir Not 🙋‍♂️
+## Geliştiriciden Bir Not 🙋‍♂️
 
 Ben de bir öğrenciyim, bu nedenle çalışmalarımda hatalar olabilir ve tasarımım mükemmel olmayabilir! Lütfen ekleme, düzenleme, öneri veya istekleriniz için benimle iletişime geçmekten çekinmeyin. Geri bildirimleriniz çok değerlidir; bu hem kod dosyaları hem de README dokümantasyonu ile ilgili olabilir. Eğer bu repository'nin içeriğini veya yapısını iyileştirebilecek önerileriniz varsa, bunları memnuniyetle karşılarım.
 
