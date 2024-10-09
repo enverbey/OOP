@@ -1,4 +1,4 @@
-[TR](#Java-ile-OOP-📚)
+[TR](#Java-ile-OOP)
 # OOP Repository for Java Students 📚
 
 This repository has been created to assist individuals taking Object-Oriented Programming (OOP) courses with Java. It aims to provide resources and examples to enhance understanding and practical skills in OOP concepts.
