@@ -40,7 +40,7 @@ Feel free to let me know if you want any changes or additional details!
 ---
 <br><br>
 
-[EN](#OOP-Repository-with-Java-for-Students-)
+[EN](#OOP-with-Java-)
 # Java ile OOP 📚
 
 Bu repository, Java ile Nesne Yönelimli Programlama (OOP) dersi alan bireylere yardımcı olmak amacıyla oluşturulmuştur. OOP kavramlarını anlamayı ve pratik becerileri geliştirmeyi amaçlayan kaynaklar ve örnekler sunmayı hedeflemektedir.
