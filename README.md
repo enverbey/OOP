@@ -23,6 +23,10 @@ I will create a section to acknowledge the friends who have regularly assisted m
 
 Please note that a `tr` folder (for Turkish content) will be added to the `Java-Basics` section soon. Stay tuned!
 
+## 🌟 Support by Giving a Star!
+
+If you find this repository helpful and don't want to miss future updates, please consider starring the project! This helps make the repository more visible to others and supports the growth of the community. Every Star motivates me to continue improving the project. 😊
+
 ---
 
 ## 📞 **Contact Information**
@@ -60,6 +64,10 @@ Bu repository'yi tamamlamama düzenli olarak yardımcı olan arkadaşlarım içi
 ## Yaklaşan Güncellemeler 🚀
 
 Lütfen `Java-Basics` klasörüne kısa süre içinde bir `tr` klasörünün (Türkçe içerik için) ekleneceğini unutmayın. Takipte kalın!
+
+## 🌟 Destek Olmak İçin Star Verin!
+
+Eğer bu repo size faydalı oluyorsa ve gelecekteki güncellemeleri kaçırmak istemiyorsanız, lütfen projeyi Star'layarak destek olun! Böylece, bu projeyi daha fazla kişiye ulaştırabilir ve topluluğun büyümesine katkıda bulunabilirsiniz. Her Star, bu repository'i daha da geliştirmem için bana motivasyon sağlar. 😊
 
 ---
 
