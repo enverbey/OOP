@@ -3,7 +3,7 @@
 
 This repository has been created to assist individuals taking Object-Oriented Programming (OOP) courses with Java. It aims to provide resources and examples to enhance understanding and practical skills in OOP concepts.
 
-## Java Basics Folder 📁
+## [Java Basics Folder 📁](https://github.com/enverbey/OOP/tree/main/Java-Basics/en)
 
 This folder serves as a foundational resource, focusing on essential Java skills that are crucial for grasping object-oriented programming. As you embark on learning OOP, it's important to have a solid understanding of basic Java coding principles. This ensures that you can effectively write and comprehend the code necessary for OOP.
 
