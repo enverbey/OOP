@@ -34,7 +34,7 @@ Feel free to let me know if you want any changes or additional details!
 
 
 ---
-<br><br><br><br>
+<br><br>
 
 [EN](#OOP-Repository-with-Java-for-Students-)
 # Java ile OOP 📚
