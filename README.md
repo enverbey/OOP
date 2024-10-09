@@ -41,7 +41,7 @@ Feel free to let me know if you want any changes or additional details!
 
 Bu repository, Java ile Nesne Yönelimli Programlama (OOP) dersi alan bireylere yardımcı olmak amacıyla oluşturulmuştur. OOP kavramlarını anlamayı ve pratik becerileri geliştirmeyi amaçlayan kaynaklar ve örnekler sunmayı hedeflemektedir.
 
-## Java Temel Bilgiler Klasörü 📁
+## [Java Temel Bilgiler Klasörü 📁](https://github.com/enverbey/OOP/tree/main/Java-Basics/)
 
 Bu klasör, nesne yönelimli programlamayı anlamak için kritik olan temel Java becerilerine odaklanan bir kaynak olarak hizmet etmektedir. OOP'yi öğrenmeye başlarken, temel Java kodlama ilkelerini iyi bir şekilde anlamak önemlidir. Bu, OOP için gerekli olan kodları etkili bir şekilde yazabilmenizi ve anlayabilmenizi sağlar.
 
