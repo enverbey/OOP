@@ -5,10 +5,6 @@ Welcome to the **Java Basics** repository! This project is designed for beginner
 - **[en](./en)**: This folder contains resources and examples in English.
 - **[tr](./tr)**: This folder contains resources and examples in Turkish.
 
-## Purpose of This Repository
-
-The goal of this repository is to provide a structured approach to learning Java, covering essential topics from basic syntax to more advanced concepts. Each folder is organized by topic and includes example files along with README files that explain the concepts.
-
 ### Folder Structure
 
 ```
