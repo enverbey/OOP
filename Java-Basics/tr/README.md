@@ -7,33 +7,26 @@ Bu klasör, Java programlama diline giriş yapmak isteyenler için temel konular
 ```
 Java Basics/tr
 ├── 01-Giriş
-│   ├── HelloWorld.java
-│   └── README.md
+│   └── HelloWorld.java
 ├── 02-Değişkenler-ve-VeriTipleri
 │   ├── DataTypes.java
-│   ├── README.md
 │   └── Variables.java
 ├── 03-Kontrol-Akışı
 │   ├── IfElseExample.java
 │   ├── Loops.java
-│   ├── README.md
 │   └── SwitchExample.java
 ├── 04-Metodlar ve Fonksiyonlar
-│   ├── FunctionsExample.java
-│   └── README.md
+│   └── FunctionsExample.java
 ├── 05-Diziler-ve-Koleksiyonlar
 │   ├── ArrayListExample.java
 │   ├── ArraysExample.java
 │   ├── CollectionsExample.java
-│   ├── HashMapExample.java
-│   └── README.md
+│   └── HashMapExample.java
 ├── 06-İstisna-Yönetimi
 │   ├── CustomExceptionExample.java
-│   ├── README.md
 │   └── TryCatchExample.java
 └── 07-Girdi-ve-Çıktı-İşlemleri
     ├── FileIOExample.java
-    ├── README.md
     └── ScannerExample.java
 ```
 
