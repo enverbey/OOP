@@ -1,68 +1,50 @@
+# Java Basics 📚
 
-# 06-İstisna Yönetimi 📌
+Welcome to the **Java Basics** repository! This project is designed for beginners who want to learn the fundamentals of the Java programming language. Here, you'll find two folders tailored to different language preferences:
 
-Bu klasör, Java'da istisna yönetimi hakkında temel bilgileri içermektedir. İstisna yönetimi, programınızdaki hataları ele almanıza ve daha dayanıklı bir kod yazmanıza olanak tanır.
+- **[en](./en)**: This folder contains resources and examples in English.
+- **[tr](./tr)**: This folder contains resources and examples in Turkish.
 
-### 📝 İçindekiler
+## Purpose of This Repository
 
-1. **CustomExceptionExample.java**: Bu dosya, Java'da özel istisnaların nasıl oluşturulacağını ve kullanılacağını gösterir. Özel bir istisna tanımlamak, kendi hata koşullarınızı belirlemenizi sağlar ve kodunuzun daha okunabilir ve yönetilebilir olmasına yardımcı olur.
+The goal of this repository is to provide a structured approach to learning Java, covering essential topics from basic syntax to more advanced concepts. Each folder is organized by topic and includes example files along with README files that explain the concepts.
 
-2. **TryCatchExample.java**: Bu dosya, Java'da try-catch bloklarının kullanımını açıklamaktadır. Burada, sıfıra bölme işlemi sırasında bir `ArithmeticException` hatası oluşur ve bu hata try-catch bloğu ile yakalanır.
+### Folder Structure
 
-### ⚠️ Önemli Not:
-
-Özel istisnalar, belirli hata koşullarını tanımlamak için kullanılır ve hata mesajlarının özelleştirilmesine olanak tanır. Try-catch blokları ise programın belirli bir bölümünde oluşabilecek hataları yönetmek için kullanılır.
-
-### 🏗️ Temel Kavramlar
-
-#### 1. Özel İstisnalar
-
-- **Tanım**: Özel istisnalar, programınızda belirli hata koşullarını temsil eden kendi istisna sınıflarınızı oluşturmanıza olanak tanır.
-
-**Örnek:**
-```java
-class InvalidAgeException extends Exception {
-    public InvalidAgeException(String message) {
-        super(message);
-    }
-}
+```
+Java Basics
+├── en
+│   ├── 01-Introduction
+│   ├── 02-Variables-and-DataTypes
+│   ├── 03-Control-Flow
+│   ├── 04-Methods-and-Functions
+│   ├── 05-Arrays-and-Collections
+│   ├── 06-Exception-Handling
+│   └── 07-Input-and-Output-Operations
+└── tr
+    ├── 01-Giriş
+    ├── 02-Değişkenler-ve-VeriTipleri
+    ├── 03-Kontrol-Akışı
+    ├── 04-Metodlar ve Fonksiyonlar
+    ├── 05-Diziler-ve-Koleksiyonlar
+    ├── 06-İstisna-Yönetimi
+    └── 07-Girdi ve Çıktı İşlemleri
 ```
 
-- **Kullanım**:
-  - `checkAge(int age)` metodu, yaşın geçerliliğini kontrol eder ve geçersizse özel bir istisna fırlatır.
-  
-```java
-try {
-    checkAge(-5); // Bu, InvalidAgeException'ı fırlatır
-} catch (InvalidAgeException e) {
-    System.out.println("Yakalanan istisna: " + e.getMessage());
-}
-```
+## How to Use This Repository
 
-#### 2. Try-Catch Blokları
+1. **Choose Your Language**:
+   - If you prefer to learn in **English**, please navigate to the **[en](./en)** folder.
+   - If you prefer to learn in **Turkish**, please navigate to the **[tr](./tr)** folder.
 
-- **Tanım**: Try-catch blokları, belirli bir kod bloğunda oluşabilecek hataları yakalamak ve yönetmek için kullanılır.
+2. **Explore the Topics**:
+   - Each topic is divided into subfolders, where you will find example Java files and detailed explanations.
 
-**Örnek:**
-```java
-try {
-    int result = 10 / 0; // Sıfıra bölme işlemi
-} catch (ArithmeticException e) {
-    System.out.println("Hata: Sıfıra bölme yapılamaz.");
-} finally {
-    System.out.println("İşlem tamamlandı.");
-}
-```
+3. **Practice**:
+   - Feel free to modify the example code and experiment with your own implementations to reinforce your learning.
 
-- **Kullanım**:
-  - Try bloğunda hata olabilecek kod yer alır. Catch bloğu ise bu hatayı yakalayarak programın devam etmesini sağlar.
+## Conclusion
 
-### 🎯 Tavsiye Edilen Alıştırmalar:
+Whether you are an English or Turkish speaker, this repository provides a valuable resource for your journey in learning Java. Dive into the topics, and don't hesitate to reach out if you have any questions!
 
-- **CustomExceptionExample.java**:
-  - Verilen bir kullanıcı adının geçerliliğini kontrol eden bir metot oluşturun. Eğer kullanıcı adı boş veya null ise, `InvalidUsernameException` adında bir özel istisna fırlatın. Bu istisnayı ana metodda yönetin.
-
-- **TryCatchExample.java**:
-  - Kullanıcıdan iki sayı alarak bölme işlemi yapmayı deneyin ve sıfıra bölme hatası durumunda uygun bir hata mesajı verin.
-
---- 
+Happy coding! 🚀
