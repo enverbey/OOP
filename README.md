@@ -25,7 +25,8 @@ Please note that a `tr` folder (for Turkish content) will be added to the `Java-
 
 ## 🌟 Support by Giving a Star!
 
-If you find this repository helpful and don't want to miss future updates, please consider starring the project! This helps make the repository more visible to others and supports the growth of the community. Every Star motivates me to continue improving the project. 😊
+If you find this repository helpful and don't want to miss future updates, please consider starring the project! This helps make the repository more visible to others and supports the growth of the community. Every Star motivates me to continue improving the project. 😊<br>
+<img src="https://github.com/enverbey/enverbey/blob/main/images/gif/Star.gif" sttle="image-rendering: pixelated;">
 
 ---
 
@@ -67,7 +68,8 @@ Lütfen `Java-Basics` klasörüne kısa süre içinde bir `tr` klasörünün (T�
 
 ## 🌟 Destek Olmak İçin Star Verin!
 
-Eğer bu repo size faydalı oluyorsa ve gelecekteki güncellemeleri kaçırmak istemiyorsanız, lütfen projeyi Star'layarak destek olun! Böylece, bu projeyi daha fazla kişiye ulaştırabilir ve topluluğun büyümesine katkıda bulunabilirsiniz. Her Star, bu repository'i daha da geliştirmem için bana motivasyon sağlar. 😊
+Eğer bu repo size faydalı oluyorsa ve gelecekteki güncellemeleri kaçırmak istemiyorsanız, lütfen projeyi Star'layarak destek olun! Böylece, bu projeyi daha fazla kişiye ulaştırabilir ve topluluğun büyümesine katkıda bulunabilirsiniz. Her Star, bu repository'i daha da geliştirmem için bana motivasyon sağlar. 😊 <br>
+<img src="https://github.com/enverbey/enverbey/blob/main/images/gif/Star.gif" sttle="image-rendering: pixelated;">
 
 ---
 
