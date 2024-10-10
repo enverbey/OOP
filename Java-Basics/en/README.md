@@ -56,7 +56,7 @@ Java Basics/en
 - **Purpose**: To teach how to manage errors and define custom exceptions.
 - **Contents**: The `TryCatchExample.java` and `CustomExceptionExample.java` files cover exception handling and creating custom exceptions.
 
-### [07-Input and Output Operations](https://github.com/enverbey/OOP/blob/main/Java-Basics/en/07-Input-and-Output)
+### [07-Input and Output Operations](https://github.com/enverbey/OOP/blob/main/Java-Basics/en/07-Input-Output)
 - **Purpose**: To demonstrate how to read user input and write data to files.
 - **Contents**: The `ScannerExample.java` file uses the `Scanner` class to obtain user input, while the `FileIOExample.java` file showcases file reading and writing operations.
 
