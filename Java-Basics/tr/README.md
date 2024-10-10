@@ -6,26 +6,26 @@ Bu klasör, Java programlama diline giriş yapmak isteyenler için temel konular
 
 ```
 Java Basics/tr
-├── 01-Giriş
+├── 01-[Giriş](https://github.com/enverbey/OOP/tree/main/Java-Basics/tr/01-Giriş)
 │   └── HelloWorld.java
-├── 02-Değişkenler-ve-VeriTipleri
+├── 02-[Değişkenler-ve-VeriTipleri](https://github.com/enverbey/OOP/tree/main/Java-Basics/tr/02-Değişkenler-ve-VeriTipleri)
 │   ├── DataTypes.java
 │   └── Variables.java
-├── 03-Kontrol-Akışı
+├── 03-[Kontrol-Akışı](https://github.com/enverbey/OOP/tree/main/Java-Basics/tr/03-Kontrol-Akışı)
 │   ├── IfElseExample.java
 │   ├── Loops.java
 │   └── SwitchExample.java
-├── 04-Metodlar ve Fonksiyonlar
+├── 04-[Metodlar ve Fonksiyonlar](https://github.com/enverbey/OOP/tree/main/Java-Basics/tr/04-Metodlar%20ve%20Fonksiyonlar)
 │   └── FunctionsExample.java
-├── 05-Diziler-ve-Koleksiyonlar
+├── 05-[Diziler-ve-Koleksiyonlar](https://github.com/enverbey/OOP/tree/main/Java-Basics/tr/05-Diziler-ve-Koleksiyonlar)
 │   ├── ArrayListExample.java
 │   ├── ArraysExample.java
 │   ├── CollectionsExample.java
 │   └── HashMapExample.java
-├── 06-İstisna-Yönetimi
+├── 06-[İstisna-Yönetimi](https://github.com/enverbey/OOP/tree/main/Java-Basics/tr/06-İstisna-Yönetimi)
 │   ├── CustomExceptionExample.java
 │   └── TryCatchExample.java
-└── 07-Girdi-ve-Çıktı-İşlemleri
+└── 07-[Girdi-ve-Çıktı-İşlemleri](https://github.com/enverbey/OOP/tree/main/Java-Basics/tr/07-Girdi-ve-Çıktı-İşlemleri)
     ├── FileIOExample.java
     └── ScannerExample.java
 ```
