@@ -7,33 +7,26 @@ This folder is designed for beginners who want to learn the basics of the Java p
 ```
 Java Basics/en
 ├── 01-Introduction
-│   ├── HelloWorld.java
-│   └── README.md
+│   └── HelloWorld.java
 ├── 02-Variables-and-DataTypes
 │   ├── DataTypes.java
-│   ├── README.md
 │   └── Variables.java
 ├── 03-Control-Flow
 │   ├── IfElseExample.java
 │   ├── Loops.java
-│   ├── README.md
 │   └── SwitchExample.java
 ├── 04-Methods-and-Functions
-│   ├── FunctionsExample.java
-│   └── README.md
+│   └── FunctionsExample.java
 ├── 05-Arrays-and-Collections
 │   ├── ArrayListExample.java
 │   ├── ArraysExample.java
 │   ├── CollectionsExample.java
-│   ├── HashMapExample.java
-│   └── README.md
+│   └── HashMapExample.java
 ├── 06-Exception-Handling
 │   ├── CustomExceptionExample.java
-│   ├── README.md
 │   └── TryCatchExample.java
 └── 07-Input-and-Output-Operations
     ├── FileIOExample.java
-    ├── README.md
     └── ScannerExample.java
 ```
 
