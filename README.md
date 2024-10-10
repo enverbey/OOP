@@ -21,7 +21,11 @@ I will create a section to acknowledge the friends who have regularly assisted m
 
 ## Upcoming Updates 🚀
 
-Please note that a `tr` folder (for Turkish content) will be added to the `Java-Basics` section soon. Stay tuned!
+A new folder will be added between **October 14-20**, focusing on the introduction to OOP. Stay tuned for more updates!
+
+## Recent Updates 🆕
+10.10.2024: We are excited to announce that the `tr` folder (for Turkish content) has been added to the `Java-Basics` section! You can now find resources and examples in Turkish alongside the English materials.
+
 
 ## 🌟 Support by Giving a Star!
 
@@ -64,7 +68,11 @@ Bu repository'yi tamamlamama düzenli olarak yardımcı olan arkadaşlarım içi
 
 ## Yaklaşan Güncellemeler 🚀
 
-Lütfen `Java-Basics` klasörüne kısa süre içinde bir `tr` klasörünün (Türkçe içerik için) ekleneceğini unutmayın. Takipte kalın!
+14-20 Ekim tarihleri arasında OOP'e giriş odaklı yeni bir klasör eklenecek. Daha fazla güncelleme için bizi izlemeye devam edin!
+
+## Son Güncellemeler 🆕
+
+10.10.2024: Java-Basics bölümüne tr klasörünün (Türkçe içerik için) eklendiğini duyurmaktan heyecan duyuyoruz! Artık Türkçe kaynaklar ve örnekleri, İngilizce materyallerle birlikte bulabilirsiniz.
 
 ## 🌟 Destek Olmak İçin Star Verin!
 
