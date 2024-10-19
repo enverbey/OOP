@@ -1,7 +1,7 @@
 Merhaba arkadaşlar !
 
 Bu klasörü oluştmak için, henüz yeterli vaktim olmadı. Bu yüzden bir video hazırladım.
-Aşşağıdaki konulara değindim.
+Aşşağıdaki konulara değindim. İyi seyirler!
 
 - Class & Obje
 - Class içinde Fonksiyon ve Değişken tanımlama
