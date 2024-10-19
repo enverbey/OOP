@@ -1,4 +1,4 @@
-Merhaba arkadaşlar !
+Merhaba arkadaşlar.
 
 Bu klasörü oluştmak için, henüz yeterli vaktim olmadı. Bu yüzden bir video hazırladım. </br>
 Aşşağıdaki konulara değindim. İyi seyirler!
