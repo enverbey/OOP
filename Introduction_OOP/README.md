@@ -1,4 +1,5 @@
 # Nesne Yönelimli Programlama ya giriş
+
 ## Kavramlar
 - Sınıf ve Nesne
 - Bir Sınıfta Fonksiyon ve Değişkenleri Tanımlama
@@ -6,15 +7,16 @@
 - Getter & setter (encapsulation)
 - Yapıcı fonksiyon (Constructor)
 
-Yukarıdaki kavramları bilmiyorsanız, egzsizlere göz atmadan önce bu videoyu izleyin.
+Yukarıdaki kavramları bilmiyorsanız, egzsizlere göz atmadan önce bu videoyu izleyin. </br>
 [Java ile Nesne Yönelimli Programlamaya Giriş | Introduction to OOP](https://www.youtube.com/watch?v=5vhpTxv2CTQ)
 
-# Videoyu izledikten sonra
+### Videoyu izledikten sonra
 - Example1&2 klasörlerini inceleyin, ardından sizde benzer bir yapı oluşturun ve/veya mevcut kodu geliştirin, örneğin Example2 için Habitat.java isminde bir dosya oluşturun ve hayvanların çoğalıp öldüğü birbirlerine saldırdığı bir döngü kurun. Burası sizin dünyanız o yüzden kodlarken özgür olun ve deneme yapmaktan korkmayın!!
 - Sadece aslan ve ceylan habitatınız için yeterli çeşitliliği sağlamıyor mu ? Ne duruyorsunuz, kendi hayvanlarınızı oluşturun. Yeni özellikler eklemekten, mevcut özellikleri(fonksiyon ve değişken) değiştirmekten korkmayın!!
 
 
 # Introduction OOP
+
 ## Concepts
 - Class & Obje
 - Defining Functions and Variables in a Class
